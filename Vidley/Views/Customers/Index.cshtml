@@ -1,0 +1,26 @@
+﻿@model IEnumerable<Vidley.Models.Customer>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<table class="table table-bordered table-hover">
+<thead>
+    <tr>
+        <th>Customer Name</th>
+        <th>DIscount Rate</th>
+    </tr>
+</thead>
+    @foreach (var Customer in Model)
+    {
+        <tbody>
+    <tr>
+        <td>@Html.ActionLink(Customer.Name,"Details",new { Customer.Id })</td>
+        <td>@Customer.MembershipType.DiscountRate%</td>
+    </tr>
+    </tbody>
+
+    }
+</table>

@@ -115,3 +115,8 @@ D:\Rakesh\Practice\Vidley\Vidley\obj\Debug\Vidley.pdb
 D:\Rakesh\Practice\Vidley\Vidley\obj\Debug\Vidley.Migrations.InitialModel.resources
 D:\Rakesh\Practice\Vidley\Vidley\obj\Debug\Vidley.csproj.GenerateResource.cache
 D:\Rakesh\Practice\Vidley\Vidley\obj\Debug\Vidley.Migrations.IssubscribedtoCustomer.resources
+D:\Rakesh\Practice\Vidley\Vidley\obj\Debug\Vidley.Migrations.AddMembershipType.resources
+D:\Rakesh\Practice\Vidley\Vidley\obj\Debug\Vidley.Migrations.PopulateMembershipType.resources
+D:\Rakesh\Practice\Vidley\Vidley\obj\Debug\Vidley.Migrations.ApplyAnnotaionsToCustomerName.resources
+D:\Rakesh\Practice\Vidley\Vidley\obj\Debug\Vidley.Migrations.addingDateofBithtoCustomer.resources
+D:\Rakesh\Practice\Vidley\Vidley\obj\Debug\Vidley.Migrations.addingMovieModel.resources
